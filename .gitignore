@@ -1,0 +1,11 @@
+# Ignore swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~ 
+undo/
+backup/
+swap/
+
