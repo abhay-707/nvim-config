@@ -21,9 +21,9 @@ I have created it with LazyVim
 
 <h3>Note:</h3>
 before doing all those things you'll need to install:<br>
-1. Nerd font
-2. npm
-3. gcc
+1. Nerd font<br>
+2. npm<br>
+3. gcc<br>
 
 <h3>For windows users</h3>
 This repository is not designed to natively support the windows system, however you can use it un Windows Subsystem for Linux(WSL)
