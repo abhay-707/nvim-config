@@ -26,5 +26,5 @@ before doing all those things you'll need to install:<br>
 3. gcc<br>
 
 <h3>For windows users</h3>
-This repository is not designed to natively support the windows system, however you can use it un Windows Subsystem for Linux(WSL)
+This repository is not designed to support the windows system natively, however you can use this set up on Windows Subsystem for Linux(WSL)
       
